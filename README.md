@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Özbakır</h1>
 <h3 align="center">A passionate .Net full-stack developer from Turkey</h3>
 
-![Etkileşimli Contribution Activity](https://giphy.com/embed/lJHHrtHIpL4qY3wCEy)
+![Etkileşimli Contribution Activity](https://giphy.com/gifs/gerbert-dance-birthday-puppet-lJHHrtHIpL4qY3wCEy">via)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanozbakir&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanozbakir" /> </p>
 
