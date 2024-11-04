@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Özbakır</h1>
 <h3 align="center">A passionate .Net full-stack developer from Turkey</h3>
 
-
+![Proje Görüntüsü](https://i.pinimg.com/564x/0f/77/ee/0f77ee0f6e8639f9aa20964536613f81.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanozbakir&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanozbakir" /> </p>
 
